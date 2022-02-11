@@ -1,5 +1,5 @@
 {
-  "name": "whichstock",
+  "name": "stock-market-india",
   "version": "1.0.0",
   "description": "\"An API Library which fetches data from Bombay Stock Exchange and National Stock Exchange and returns data in JSON format.\"",
   "main": "app.js",
@@ -23,15 +23,15 @@
     "node",
     "express"
   ],
-  "author": "DC",
+  "author": "Maanav Shah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ApplonXD/stock-market-india/issues"
+    "url": "https://github.com/maanavshah/stock-market-india/issues"
   },
-  "homepage": "https://github.com/ApplonXD/stock-market-india#readme",
+  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
   "dependencies": {
     "axios": "^0.18.1",
-    "express": "^4.16.4",
+    "express": "^4.17.2",
     "indian-stock-exchange": "^1.3.33",
     "loadash": "^1.0.0"
   }
